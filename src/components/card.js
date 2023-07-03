@@ -19,6 +19,9 @@ const Card = (article) => {
   //
 }
 
+
+
+
 const cardAppender = (selector) => {
   // TASK 6
   // ---------------------
